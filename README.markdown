@@ -2,4 +2,7 @@
 
 ## Usage
 
+1. Clone the repo into `$QUICKLISP_DIST_DIR/local-projects`
+* run `(ql:quickload "ltk-workshop")` within your lisp environment
+
 ## Installation
